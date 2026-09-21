@@ -1,0 +1,9 @@
+name: workspace-task-prompts
+version: "0.2.0"
+description: Task-driven coordination, specialist work, and visual clarification contracts.
+targets:
+  - copilot
+includes: auto
+dependencies:
+  apm: []
+  mcp: []

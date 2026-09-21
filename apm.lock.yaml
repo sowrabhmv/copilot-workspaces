@@ -1,0 +1,56 @@
+lockfile_version: '1'
+apm_version: 0.31.0
+dependencies:
+- repo_url: _local/source
+  name: workspace-task-prompts
+  version: 0.2.0
+  package_type: apm_package
+  deployed_files:
+  - .github/instructions/workspace-contract.instructions.md
+  - .github/prompts/planner.prompt.md
+  - .github/prompts/producer.prompt.md
+  - .github/prompts/reviewer.prompt.md
+  deployed_file_hashes:
+    .github/instructions/workspace-contract.instructions.md: sha256:4da6215dc7ca518a825ada64545ad68ea5c24053144f5e84d8bc3b65633abc72
+    .github/prompts/planner.prompt.md: sha256:96eafe5a67948206635047f1f8dc9d306f4775f48304408b41b8d0300b8d2aff
+    .github/prompts/producer.prompt.md: sha256:d0f5b39ef673d13a951a0f9184ebaab02806f5d3e131a70716d5c19153df58bd
+    .github/prompts/reviewer.prompt.md: sha256:4fbf0f088300fedd4094858391a6ae5f1d4ebfee2968e0c3989b2b4b3614e8ea
+  source: local
+  local_path: ./agent-pack/source
+deployments:
+- kind: project-relative
+  target: copilot
+  value: .github/instructions/workspace-contract.instructions.md
+  runtime: null
+  scope: project
+  owners:
+  - ./agent-pack/source
+  active_owner: ./agent-pack/source
+  content_hash: sha256:4da6215dc7ca518a825ada64545ad68ea5c24053144f5e84d8bc3b65633abc72
+- kind: project-relative
+  target: copilot
+  value: .github/prompts/planner.prompt.md
+  runtime: null
+  scope: project
+  owners:
+  - ./agent-pack/source
+  active_owner: ./agent-pack/source
+  content_hash: sha256:96eafe5a67948206635047f1f8dc9d306f4775f48304408b41b8d0300b8d2aff
+- kind: project-relative
+  target: copilot
+  value: .github/prompts/producer.prompt.md
+  runtime: null
+  scope: project
+  owners:
+  - ./agent-pack/source
+  active_owner: ./agent-pack/source
+  content_hash: sha256:d0f5b39ef673d13a951a0f9184ebaab02806f5d3e131a70716d5c19153df58bd
+- kind: project-relative
+  target: copilot
+  value: .github/prompts/reviewer.prompt.md
+  runtime: null
+  scope: project
+  owners:
+  - ./agent-pack/source
+  active_owner: ./agent-pack/source
+  content_hash: sha256:4fbf0f088300fedd4094858391a6ae5f1d4ebfee2968e0c3989b2b4b3614e8ea

@@ -1,0 +1,10 @@
+name: workspace-agent-pack
+version: "0.2.0"
+description: Build-time consumer of the trusted local Workspaces prompt package.
+targets:
+  - copilot
+includes: auto
+dependencies:
+  apm:
+    - path: ./agent-pack/source
+  mcp: []

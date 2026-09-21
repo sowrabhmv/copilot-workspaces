@@ -1,0 +1,168 @@
+{
+  "reason": "Configured npm mirror does not yet contain 0.21.0; published artifacts preserved without modification.",
+  "verifiedAt": "2026-09-20",
+  "packages": [
+    {
+      "files": [
+        {
+          "path": "/dist/index.js",
+          "integrity": "sha256-RV1RhHf72sV7Kw61jiW0NRQJ5MiFWUnFyzqApiKMlg4="
+        },
+        {
+          "path": "/dist/store-utils.js",
+          "integrity": "sha256-xCJr8AwlTmXY9qiTm6ImSDNgXFxKoHCqdAnSgfsV604="
+        },
+        {
+          "path": "/package.json",
+          "integrity": "sha256-M9sCdWpjxFLZU/bJ0sLAu84P8AohZMC+BG8rQc+bvqA="
+        },
+        {
+          "path": "/dist/chunk-7V7ZCHEJ.mjs.map",
+          "integrity": "sha256-YU7ZJqD+zW58PABCJ6afoQY9l0q8+SQDW9PBACKqbFQ="
+        },
+        {
+          "path": "/dist/index.js.map",
+          "integrity": "sha256-LJzfoUwrjtMsDvi8o0p7087TGh7Xxuwse0CceEwj6Go="
+        },
+        {
+          "path": "/dist/index.mjs.map",
+          "integrity": "sha256-2EF8CUjYGo6rpRV+n24Ls1UDQ9WH3FqkWaKm6mbbNnU="
+        },
+        {
+          "path": "/dist/store-utils.js.map",
+          "integrity": "sha256-JM57MjJE/c+LnPQpjM2XigiHbqNTRcAHMer8ub76AQk="
+        },
+        {
+          "path": "/dist/store-utils.mjs.map",
+          "integrity": "sha256-y6gfetTVsbYpv0OCPxCC5zoQ0MMRTJN1Fef4wQR2KbM="
+        },
+        {
+          "path": "/README.md",
+          "integrity": "sha256-oFJY1wYiSU9tmg8NS/+lX58xpfDFvoEdvbMP4IBU+Bo="
+        },
+        {
+          "path": "/dist/chunk-7V7ZCHEJ.mjs",
+          "integrity": "sha256-SoFgz9htR5rqH2P60KFmTd7mGd8SJefUPCdJHzPp2aE="
+        },
+        {
+          "path": "/dist/index.mjs",
+          "integrity": "sha256-e/qDZl8AwD8zJEvFfGEjnGWrvp1h2Z9QQmzjMRw4sK4="
+        },
+        {
+          "path": "/dist/store-utils.mjs",
+          "integrity": "sha256-mBqsvnr0vlKf5jOl02Gszlyvmj71O1ujUv6VDiOBytY="
+        },
+        {
+          "path": "/dist/index.d.mts",
+          "integrity": "sha256-zGGYZ929cSJegshbVTucJCOPzC+o7u8I2IOlUgQ3www="
+        },
+        {
+          "path": "/dist/store-utils-CGwRAVOR.d.mts",
+          "integrity": "sha256-thBVutNPlld0LlPDSZwyKQj1/54KvdFstYlZY/XgTxI="
+        },
+        {
+          "path": "/dist/store-utils.d.mts",
+          "integrity": "sha256-DDfirzSfSM0dWfvQPDUfN0d0idsvwfIDexQgmxNMdn8="
+        },
+        {
+          "path": "/dist/index.d.ts",
+          "integrity": "sha256-rn5WpUKSt94EzfdY2UcXQRG+GZ9gVz63XPhGiBtKXr0="
+        },
+        {
+          "path": "/dist/store-utils-CGwRAVOR.d.ts",
+          "integrity": "sha256-thBVutNPlld0LlPDSZwyKQj1/54KvdFstYlZY/XgTxI="
+        },
+        {
+          "path": "/dist/store-utils.d.ts",
+          "integrity": "sha256-fMJIvFM/+PZ7r/0M2pkbWYzqJ5EmvnoyPdJsgXZGKPA="
+        },
+        {
+          "path": "/LICENSE",
+          "integrity": "sha256-AUuzHoPVwudq6hzG6CIXNGq0E2LzLLNVrQ9cEKoK6v8="
+        }
+      ],
+      "name": "@json-render/core",
+      "source": "https://unpkg.com/@json-render/core@0.21.0",
+      "license": "Apache-2.0",
+      "sha256": "584683DC53F9AD30BB58001F184352C2FB7E8E71D5A8AAF30BCB8E7FC9B93674",
+      "version": "0.21.0"
+    },
+    {
+      "files": [
+        {
+          "path": "/dist/index.js",
+          "integrity": "sha256-wzglJmFv7OiDKXnP5MhirnxjLqs73NqXU+E8/KY5vV8="
+        },
+        {
+          "path": "/dist/schema.js",
+          "integrity": "sha256-Zvv6vn88LkGNyMmd0EvtpAVj9JPMZldV6m4relDn1wE="
+        },
+        {
+          "path": "/package.json",
+          "integrity": "sha256-ghIaF5WVeiq8eaYmZ/TMRihw2NnYQO9JMcSnd7rChNM="
+        },
+        {
+          "path": "/dist/chunk-SDI5YI5X.mjs.map",
+          "integrity": "sha256-fKZlv4AQoyipambUJXbvfDzBC11WG5l5qXR9tN0Hesc="
+        },
+        {
+          "path": "/dist/index.js.map",
+          "integrity": "sha256-4wcqGE0leEK1vqaxy6kNJNapNLiEkA3/wAnldDskNV0="
+        },
+        {
+          "path": "/dist/index.mjs.map",
+          "integrity": "sha256-QlbbdbOVd6hfXI5B8Hj/RtCZk6fmSfXimXdpm6rXXyg="
+        },
+        {
+          "path": "/dist/schema.js.map",
+          "integrity": "sha256-vNre0Iqp/n4Usf5ebSldUFuNG9znRG8EfNmqXo2pKjU="
+        },
+        {
+          "path": "/dist/schema.mjs.map",
+          "integrity": "sha256-y6gfetTVsbYpv0OCPxCC5zoQ0MMRTJN1Fef4wQR2KbM="
+        },
+        {
+          "path": "/README.md",
+          "integrity": "sha256-/3xOe7WEvrd7Yp67cilen8/giE+WgpJNBTD4v5FUX1w="
+        },
+        {
+          "path": "/dist/chunk-SDI5YI5X.mjs",
+          "integrity": "sha256-8kBvHUucZeJzTqwFyH5UoGfcUnPM1HQkDKKGB5KxK9Q="
+        },
+        {
+          "path": "/dist/index.mjs",
+          "integrity": "sha256-y7p7HBUW2rJL2INyto3Ots+AavOOdj57gI/hCkdLqcU="
+        },
+        {
+          "path": "/dist/schema.mjs",
+          "integrity": "sha256-PUabVvdKFNUvGesJXfztSCKggNI64or3q1MsloHWfgI="
+        },
+        {
+          "path": "/dist/index.d.mts",
+          "integrity": "sha256-AThjjNasht9p2rsvRgfj/J/ZxvppjWUbD2+fimrjZgw="
+        },
+        {
+          "path": "/dist/schema.d.mts",
+          "integrity": "sha256-sJUjmkWbwReTPBRj4ZwlCTkw6rDjIa5+hsh63N6QIg4="
+        },
+        {
+          "path": "/dist/index.d.ts",
+          "integrity": "sha256-NH6fGWbYD6OvUeZSN06mGUbsCUlOlJK93hloeLK6bxg="
+        },
+        {
+          "path": "/dist/schema.d.ts",
+          "integrity": "sha256-sJUjmkWbwReTPBRj4ZwlCTkw6rDjIa5+hsh63N6QIg4="
+        },
+        {
+          "path": "/LICENSE",
+          "integrity": "sha256-AUuzHoPVwudq6hzG6CIXNGq0E2LzLLNVrQ9cEKoK6v8="
+        }
+      ],
+      "name": "@json-render/react",
+      "source": "https://unpkg.com/@json-render/react@0.21.0",
+      "license": "Apache-2.0",
+      "sha256": "687B193CDE1159F6123C011FF867BCA1B407997500C92E66426C3A7CA05578F0",
+      "version": "0.21.0"
+    }
+  ]
+}

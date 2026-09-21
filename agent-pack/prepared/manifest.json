@@ -1,0 +1,25 @@
+{
+  "formatVersion": 1,
+  "name": "workspace-agent-pack",
+  "version": "0.2.0",
+  "apmVersion": "0.31.0",
+  "lockSha256": "95c4fefc67e56a30dc8adae4cd4318249a746ce4e1c6bfced0e7aed666b06570",
+  "files": {
+    "common": {
+      "path": ".github/instructions/workspace-contract.instructions.md",
+      "sha256": "4da6215dc7ca518a825ada64545ad68ea5c24053144f5e84d8bc3b65633abc72"
+    },
+    "planner": {
+      "path": ".github/prompts/planner.prompt.md",
+      "sha256": "96eafe5a67948206635047f1f8dc9d306f4775f48304408b41b8d0300b8d2aff"
+    },
+    "producer": {
+      "path": ".github/prompts/producer.prompt.md",
+      "sha256": "d0f5b39ef673d13a951a0f9184ebaab02806f5d3e131a70716d5c19153df58bd"
+    },
+    "reviewer": {
+      "path": ".github/prompts/reviewer.prompt.md",
+      "sha256": "4fbf0f088300fedd4094858391a6ae5f1d4ebfee2968e0c3989b2b4b3614e8ea"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "workspaces-browser",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fluentui/react-icons": "2.0.341",
+    "@json-render/core": "file:vendor/json-render-core-0.21.0.tgz",
+    "@json-render/react": "file:vendor/json-render-react-0.21.0.tgz",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zod": "4.3.6"
+  },
+  "devDependencies": {
+    "@testing-library/react": "16.3.0",
+    "@types/node": "22.18.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.1",
+    "jsdom": "26.1.0",
+    "typescript": "5.9.2",
+    "vite": "8.3.0",
+    "vitest": "4.1.11"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

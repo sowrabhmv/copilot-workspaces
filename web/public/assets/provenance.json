@@ -1,0 +1,38 @@
+{
+  "verifiedAt": "2026-09-20",
+  "sourcePrototype": "..\\Prototype",
+  "figmaFileKey": "43oQOCD2164ExeSf5ajmou",
+  "productPage": "5634:0",
+  "copilotSet": "262034:2143",
+  "treatment": "Exact existing primary rainbow SVG exports. No recoloring or filters; preserve optical artwork dimensions inside variant boxes.",
+  "assets": [
+    {
+      "file": "copilot-32.svg",
+      "node": "262034:2117",
+      "leaf": "577797:1616",
+      "variant": "Size=32, Theme=Color",
+      "outer": [32, 32],
+      "artwork": [30.0005, 28],
+      "offset": [0.998, 2],
+      "sha256": "BEBC10AE933A3FA5A6511A08EBED92FAECDE00DC795A315447DC751653927C92"
+    },
+    {
+      "file": "copilot-48.svg",
+      "node": "262034:2112",
+      "leaf": "577797:1614",
+      "variant": "Size=48, Theme=Color",
+      "outer": [48, 48],
+      "artwork": [41.9997, 38],
+      "offset": [3.004, 5],
+      "sha256": "8062F4ACEAA6CA08682E079C8525C076423A5B285417E62D8C9D8EA0F9B0C4CB"
+    }
+  ],
+  "systemIcons": {
+    "package": "@fluentui/react-icons",
+    "version": "2.0.341",
+    "sourcePage": "2708:10653",
+    "sourceProvenance": "Prototype\\public\\assets\\figma\\copilot\\provenance.json",
+    "variant": "Exact 16px or 20px Regular exports as recorded by src\\components\\Icons.tsx",
+    "accessibility": "Decorative artwork is aria-hidden with empty image alt text. Icon-only buttons have accessible labels."
+  }
+}
